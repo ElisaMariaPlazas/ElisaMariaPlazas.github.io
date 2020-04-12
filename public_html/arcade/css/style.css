@@ -36,7 +36,8 @@ h1 {
 }
 
 h1 span {
-	background: #baff00;
+	/*background: #baff00;*/
+	background: #052E48;
 	padding: 0 10px;
 	color: #222222;
 	display: inline-block;
@@ -93,7 +94,8 @@ ol {
 }
 
 .sp-title span {
-	background: #baff00;
+	/*background: #baff00;*/
+	background: #052E48;
 	padding: 0 10px;
 	color: #222222;
 	display: inline-block;
@@ -130,7 +132,8 @@ ol {
 .section-title h1,
 .section-title h2 {
 	display: inline-block;
-	background: #baff00;
+	/*background: #baff00;*/
+	background: #052E48;
 	padding: 0 20px;
 	margin-bottom: 0;
 	font-size: 60px;
@@ -242,8 +245,10 @@ ol {
 }
 
 .site-btn.sb-solid-color {
-	background: #baff00;
-	border-color: #baff00;
+	/*background: #baff00;*/
+	background: #052E48;
+	/*border-color: #baff00;*/
+	border-color: #052E48;
 }
 
 .site-btn.sb-solid-color:after,
@@ -254,12 +259,14 @@ ol {
 .site-btn.sb-solid-dark {
 	background: #222;
 	border-color: #222;
-	color: #baff00;
+	color: #052E48;
+	/*color: #baff00;*/
 }
 
 .site-btn.sb-solid-dark:after,
 .site-btn.sb-solid-dark:before {
-	background: #baff00;
+	/*background: #baff00;*/
+	background: #052E48;
 }
 
 .element {
@@ -284,7 +291,8 @@ ol {
 }
 
 .accordion-area .panel-header.active {
-	background: #baff00;
+	/*background: #baff00;*/
+	background: #052E48;
 }
 
 .accordion-area .panel-header.active .panel-link:after {
